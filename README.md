@@ -8,7 +8,7 @@ I am currently acquiring skills in Rwanda Coding Academy and I have an experienc
 
 * 🌍  I'm based in Kigali City
 * ✉️  You can contact me at [yvankiliye.rubuto@gmail.com](mailto:yvankiliye.rubuto@gmail.com)
-* 🧠  I'm learning React JS
+* 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on any project
 * ⚡  I'm secretly an Alien but I don't want to talk about it
 
